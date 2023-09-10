@@ -1,0 +1,3 @@
+Create a new file in git repository
+Add and commit the file
+Push and code to central repository
